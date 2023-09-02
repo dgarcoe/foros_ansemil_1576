@@ -2,5 +2,5 @@
 
 
 <div class="ratio-square" style="height: 100vh;">
-        <iframe class="ratio-inner" src="ansemil.html"></iframe>
+        <iframe class="ratio-inner" style="height: 100vh;" src="ansemil.html"></iframe>
 </div>
