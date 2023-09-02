@@ -8,5 +8,5 @@
 ## Distribución da superficie en ferrados
 
 <div class="ratio-16-10" style="height: 100vh; width: 100vh; margin:auto;">
-        <iframe class="ratio-inner" style="height: 100vh; width: 70vh; margin:auto;" src="boxplot.html"></iframe>
+        <iframe class="ratio-inner" style="height: 70vh; width: 100vh; margin:auto;" src="boxplot.html"></iframe>
 </div>
