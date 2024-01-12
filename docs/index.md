@@ -14,6 +14,6 @@
 
 ### Distribución da superficie de monte e labradío por parroquia
 
-<div class="ratio-16-10" style="height: 100vh; width: 100vh; margin:auto;">
+<div class="ratio-16-10" style="height: 70vh; width: 100vh; margin:auto;">
         <iframe class="ratio-inner" style="height: 70vh; width: 100vh; margin:auto;" src="polar_parroquias.html"></iframe>
 </div>
